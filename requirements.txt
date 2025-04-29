@@ -2,10 +2,8 @@ streamlit
 scikit-learn
 pandas
 numpy
-matplotlib
 seaborn
 joblib
 re
 string
-seaborn
-matplotlib.pyplot
+
